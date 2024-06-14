@@ -8,9 +8,9 @@ cloudinary.config({
 */
 
 cloudinary.config({ 
-    cloud_name: 'df4gjigss',
-    api_key: '931985392132929', 
-    api_secret: 'f_tr_j9pvKof20Pigv-_dG7x0_0'
+    cloud_name: '',
+    api_key: '', 
+    api_secret: ''
 });
 
 module.exports = { cloudinary }
