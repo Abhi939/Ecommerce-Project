@@ -189,7 +189,7 @@ const LandingPage = () => {
                 </div>
 
                 <div className='copyright-box'>
-                    <p>Developed by <a href='https://github.com/itamarrosenblum' target='_blank'>Itamar Rosenblum</a></p>
+                    <p>Developed by <a href='https://github.com/abhi939' target='_blank'>Abhishek Gudala</a></p>
                 </div>
             </footer>
         </div>
